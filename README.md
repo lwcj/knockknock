@@ -1,9 +1,9 @@
 # knockknock
 simple knock knock joke generator
 
-the classic knock knock joke has a set up with one word (or phrase) and finishe with a punchline that starts with the set up word
+the classic knock knock joke has a set up with one word (or phrase) and ends with a punchline that adds on to the set up word
 
-this script uses the phonetic dictionary to build a list of possible 'punchlines' based on a randomly selected set up word, and chooses a random punchline
+this script uses a phonetic dictionary to build a list of possible 'punchlines' based on a randomly selected set up word, and chooses from the list of punchlines
 
 example output:
 ```
